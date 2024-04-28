@@ -1,0 +1,13 @@
+# Special Pikpak Fix
+# DOMAIN-SUFFIX,mypikpak.com/drive
+# DOMAIN-SUFFIX,mypikpak.com/zh-CN
+DOMAIN-SUFFIX,access.mypikpak.net
+DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-SUFFIX,access.pikpak.me
+DOMAIN-SUFFIX,access.pikpakdrive.com
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
